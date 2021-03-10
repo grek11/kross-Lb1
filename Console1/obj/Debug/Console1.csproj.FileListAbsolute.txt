@@ -1,0 +1,10 @@
+C:\Users\greko\OneDrive\Рабочий стол\Кроссплатф\Console1\bin\Debug\Console1.exe.config
+C:\Users\greko\OneDrive\Рабочий стол\Кроссплатф\Console1\bin\Debug\Console1.exe
+C:\Users\greko\OneDrive\Рабочий стол\Кроссплатф\Console1\bin\Debug\Console1.pdb
+C:\Users\greko\OneDrive\Рабочий стол\Кроссплатф\Console1\bin\Debug\ClassLibrary1.dll
+C:\Users\greko\OneDrive\Рабочий стол\Кроссплатф\Console1\bin\Debug\ClassLibrary1.pdb
+C:\Users\greko\OneDrive\Рабочий стол\Кроссплатф\Console1\obj\Debug\Console1.csprojAssemblyReference.cache
+C:\Users\greko\OneDrive\Рабочий стол\Кроссплатф\Console1\obj\Debug\Console1.csproj.CoreCompileInputs.cache
+C:\Users\greko\OneDrive\Рабочий стол\Кроссплатф\Console1\obj\Debug\Console1.csproj.CopyComplete
+C:\Users\greko\OneDrive\Рабочий стол\Кроссплатф\Console1\obj\Debug\Console1.exe
+C:\Users\greko\OneDrive\Рабочий стол\Кроссплатф\Console1\obj\Debug\Console1.pdb
